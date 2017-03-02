@@ -30,12 +30,3 @@ In linux you do not need to spesify the prefix folder. Qt Creator is build with 
 The Plugin is needed to build with same compiler than Creator is build with in able to make it work. In Windows you need the Qscintilla2.dll in Creator bin directory or system32 so that the plugin can work with the qt creator.
 
 Under linux please install Qt5-sdk and ffmpeg that has avisynth. 
-
-DONATE
-======
-
-If you like the idea of having atlast native avisynth encoder in youre system the consider to support by donation.
-
-3% of your donation goes to benefit aid to some part of world.
-
-<a href='https://pledgie.com/campaigns/22683'><img alt='Click here to lend your support to: MeXgui -Croos system MeXgui port and make a donation at pledgie.com !' src='https://pledgie.com/campaigns/22683.png?skin_name=chrome' border='0' ></a>
